@@ -6,16 +6,19 @@ Made during Global Game Jam 2017. A space defense shooter.
 ## Credits
 
 ### Art
-- Devi Acharya
-- Creath Carter
+- [Devi Acharya](http://www.devi-a.com/)
+- [Creath Carter](http://www.creathcarter.com/)
 
 ### Audio
 - Creath Carter
 
-### Engineering
-- Jasper Lieber
-- Isaiah Mann
-- John Tuttle
+### Design
+- Matt Regan
 
-### Lovable Animal Mascott
+### Engineering
+- [Jasper Lieber](http://www.eskimo.com/~pbarber/jasperjon/)
+- [Isaiah Mann](http://isaiahmann.com/)
+- [John Tuttle](https://www.linkedin.com/in/john-tuttle-33497320)
+
+### Lovable Animal Mascot
 - Creath Carter
