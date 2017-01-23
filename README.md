@@ -1,6 +1,8 @@
 # Centron
 Made during Global Game Jam 2017. A space defense shooter.
 
+## [Play](https://pvgamedevs.github.io/centron/)
+
 ## Created by Matt Regan
 
 ## Credits
